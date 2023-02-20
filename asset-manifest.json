@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6452032.css",
+    "main.js": "/static/js/main.99a3757e.js",
+    "static/media/nearbywaste.png": "/static/media/nearbywaste.fbcabce37375a1dc8032.png",
+    "static/media/driverdrowsiness.png": "/static/media/driverdrowsiness.a970b3d64d001c514972.png",
+    "static/media/design.png": "/static/media/design.086d29fa5a2bd8dd9bf8.png",
+    "static/media/myimg2_edit.png": "/static/media/myimg2_edit.dba24fb166ae23eca888.png",
+    "static/media/react-logo.png": "/static/media/react-logo.582cbc784710a3dbe704.png",
+    "static/media/python-logo.png": "/static/media/python-logo.52d7bb207f9868b90e39.png",
+    "static/media/c-logo.png": "/static/media/c-logo.2b2276395e116be80813.png",
+    "static/media/html5-logo.png": "/static/media/html5-logo.aa710682752a18d5add3.png",
+    "static/media/figma-logo.png": "/static/media/figma-logo.0e408c56cbf73ea2c6a7.png",
+    "static/media/mysql-logo.png": "/static/media/mysql-logo.aaf47b1b8acb71135ee4.png",
+    "static/media/javascript-logo.png": "/static/media/javascript-logo.31c81075366a39d39b47.png",
+    "static/media/white_banner.png": "/static/media/white_banner.0972d05780b8fd029716.png",
+    "static/media/LogoBlack.png": "/static/media/LogoBlack.a68ea5935193f133d3bb.png",
+    "index.html": "/index.html",
+    "main.c6452032.css.map": "/static/css/main.c6452032.css.map",
+    "main.99a3757e.js.map": "/static/js/main.99a3757e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6452032.css",
+    "static/js/main.99a3757e.js"
+  ]
+}
