@@ -12,7 +12,9 @@ const Contact = () => {
                     <input className ='my-4 py-2 bg-[#FFDDDB] p-2'type="Email" placeholder='Email' name='email' />
                     <textarea className='bg-[#FFDDDB] p-2' name="Message" rows='10' placeholder='Message'></textarea>
                     <button className='text-white border-2 hover:bg-[#FFDDDB] hover:border-[#FFDDDB] px-4 py-3 my-8 mx-auto flex items-center'>Let's Collaborate</button>
+                    <p className='text-white text-center text-sm' >Designed and Developed by Anjali Kedia</p>
             </form>
+        
         </div>
      );
 }
