@@ -1,6 +1,4 @@
 import React from 'react';
-import {FaPython,FaReact,FaHtml5,FaGithub,FaFigma,} from 'react-icons/fa';
-import{SiMysql} from 'react-icons/si';
 import cpp from '../images/c-logo.png';
 import python from '../images/python-logo.png';
 import js from '../images/javascript-logo.png';
@@ -12,7 +10,7 @@ import github from '../images/github-mark-white.png';
 
 const Skills = () => {
     return ( 
-        <div name='skills' className=' w-full h-screen text-white'>
+        <div name='skills' className=' w-full h-screen mt-4 text-white'>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>
                 <p className='text-4xl font-bold inline border-b-4 border-[#FFDDDB] text-white'>SKILLS </p>

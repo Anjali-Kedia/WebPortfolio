@@ -7,7 +7,7 @@ import design from '../images/design.png';
 
 const Projects = () => {
     return ( 
-        <div name='work' className='w-full md:h-screen  text-white' >
+        <div name='work' className='w-full md:h-screen mt-5 text-white' >
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div className='pb-9'>
                     <p className='text-4xl font-bold inline border-b-4 text-white border-[#FFDDDB]'>WORK</p>
