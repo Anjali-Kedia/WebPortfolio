@@ -10,23 +10,23 @@ const NavBar = () => {
         setNav(!nav)
     }
     return ( 
-        <div className= ' flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
+        <div className= 'flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
             <img src={myLogoWhite} className="h-14 mr-2 ml-3 mt-4 sm:h-20" alt="HUSTLE|BELIEVE"/>
             <ul className='hidden md:flex'>
-                <li className='p-4'>
+                <li className='p-4 hover:text-[#FFDDDB]'>
                 <Link  to="home"  smooth={true} duration={500} >
           Home
         </Link></li>
-                <li className='p-4'><Link  to="about"  smooth={true} duration={500} >
+                <li className='p-4 hover:text-[#FFDDDB]'><Link  to="about"  smooth={true} duration={500} >
           About
         </Link></li>
-                <li className='p-4'><Link  to="skills"  smooth={true} duration={500} >
+                <li className='p-4 hover:text-[#FFDDDB]'><Link  to="skills"  smooth={true} duration={500} >
           Skills
         </Link></li>
-                <li className='p-4'><Link  to="work"  smooth={true} duration={500} >
+                <li className='p-4 hover:text-[#FFDDDB]'><Link  to="work"  smooth={true} duration={500} >
           Work
         </Link></li>
-                <li className='p-4'><Link  to="contact"  smooth={true} duration={500} >
+                <li className='p-4 hover:text-[#FFDDDB]'><Link  to="contact"  smooth={true} duration={500} >
           Contact
         </Link></li>
             </ul>

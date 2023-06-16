@@ -10,8 +10,8 @@ import github from '../images/github-mark-white.png';
 
 const Skills = () => {
     return ( 
-        <div name='skills' className=' w-full h-screen mt-4 text-white'>
-        <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+        <div name='skills' className=' w-full h-screen lg:mt-44 md:mt-96 pt-20 text-white'>
+        <div className='max-w-[1000px] mx-auto px-4 flex flex-col justify-center w-full h-full'>
             <div>
                 <p className='text-4xl font-bold inline border-b-4 border-[#FFDDDB] text-white'>SKILLS </p>
                 <p className='py-4 font-bold'>These are some technologies I've worked with:</p>

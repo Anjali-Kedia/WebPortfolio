@@ -9,7 +9,7 @@ const Hero = () => {
     }
     return(
         <div  name='home' className='w-full h-screen flex flex-col justify-between'>
-            <div className='grid md:grid-cols-2 max-w-[1240px] m-auto'>
+            <div className='grid  md:grid-cols-2 max-w-[1240px] m-auto'>
                 
                 <div className='flex flex-col justify-center md:items-start w-full px-8 py-5'>               
                  
@@ -29,7 +29,7 @@ const Hero = () => {
                     
                 </div>
                     <div>
-                        <img className='w-full' src={bgImg} alt="/"/>
+                        <img className='w-full sm:w-screen' src={bgImg} alt="/"/>
                     </div>
 
 

@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div name='about' className='w-full h-screen mt-16'>
+        <div name='about' className='w-full h-screen sm:mt-72 lg:mt-44'>
             <div className='flex flex-col justify-center h-full items-center text-white'>
                 <div className='max-w-[1000px] w-full px-4 grid grid-cols-2 gap-8'>
                     <div className='sm:text-right pb-8 pl-4 '>
@@ -13,9 +13,9 @@ const About = () => {
                 <div className='max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-8 '>
                 <p className='sm:text-right text-4xl font-bold'>Hi, I am Anjali, nice to meet you. Please take a look around.</p>   
                 <div>
-                    <p >I am a sophomore. Currently living in Chennai, I am joyous, fun loving person. 
-                        I am a UI/UX designer and Front-end developer, working towards Full Stack Development.
-                        I am specialising in AI and Ml, and I have worked on a few projects building ML models.
+                    <p >I am a pre-final year student. Currently living in Chennai, I am joyous, fun loving person. 
+                        I am a UI/UX designer and Web Developer.
+                        I am specialising in AI and ML, and I have worked on projects building ML models.
                         Overall,I am always up to learn new technology and 
                         meet new people.
                     </p>

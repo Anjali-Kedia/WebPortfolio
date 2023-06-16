@@ -5,6 +5,7 @@ import Hero from './components/hero';
 import NavBar from './components/navBar';
 import Skills from './components/skills';
 import Projects from './components/work';
+import Tabs from './components/project';
 
 
 
@@ -16,7 +17,8 @@ function App() {
       <Hero/>
       <About/>
       <Skills/>
-      <Projects/>
+      {/* <Projects/> */}
+      <Tabs/>
       <Contact/>
     </div>
   );
