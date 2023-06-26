@@ -16,6 +16,7 @@ import wastecollect from '../images/nearbywaste.png'
 
 
 
+
 const Data = [
     {
       id:1,
@@ -42,6 +43,7 @@ const Data = [
     github: 'https://github.com/Anjali-Kedia/Nearby-Waste-Collectors',
     site:'https://github.com/Anjali-Kedia/Nearby-Waste-Collectors'
   },
+
 //   {
 //     id:4,
 //     image:'../images/driverdrowsiness.png',

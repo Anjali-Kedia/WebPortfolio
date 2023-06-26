@@ -8,7 +8,7 @@ const Hero = () => {
         sethello(!hello)
     }
     return(
-        <div  name='home' className='w-full h-screen flex flex-col justify-between'>
+        <div  name='home' className='w-full  flex flex-col justify-between'>
             <div className='grid  md:grid-cols-2 max-w-[1240px] m-auto'>
                 
                 <div className='flex flex-col justify-center md:items-start w-full px-8 py-5'>               

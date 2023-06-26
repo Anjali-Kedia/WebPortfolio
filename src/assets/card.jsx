@@ -13,6 +13,7 @@ import {
 import restaurant from '../images/restaurant.png';
 import expense from '../images/expense.png';
 import jobfind from '../images/job-find.png'
+import blogapp from '../images/myblogapp.png'
 
 
 //For all the jobs, we are going to use high order array method called Map
@@ -21,6 +22,14 @@ import jobfind from '../images/job-find.png'
 const Data = [
   {
     id:1,
+    image:blogapp,
+    title:'Blog Website',
+    desc: 'Tech Stack: NextJS, graphql',
+    github: 'https://github.com/Anjali-Kedia/MyBlogApp',
+    site:'https://byte-app.vercel.app'
+  },
+  {
+    id:2,
     image:restaurant,
     title:'Restaurant Site',
     desc: 'Tech Stack: React JS, CSS',
@@ -28,7 +37,7 @@ const Data = [
     site:'https://restaurant-site-smoky.vercel.app',
   },
   {
-    id:2,
+    id:3,
     image:expense,
     title:'Expense Tracker',
     desc: 'Tech Stack: MongoDB, ExpressJS, ReactJS, NodeJS',
@@ -36,7 +45,7 @@ const Data = [
     site: 'https://github.com/Anjali-Kedia/Expense_Tracker'
   },
   {
-    id:3,
+    id:4,
     image:jobfind,
     title:'Job Search Site',
     desc: 'Tech Stack: Vite ReactJS, TailwindCSS ',
