@@ -1,32 +1,27 @@
 {
   "files": {
-    "main.css": "/WebPortfolio/static/css/main.25765c9d.css",
-    "main.js": "/WebPortfolio/static/js/main.54c2434e.js",
+    "main.css": "/WebPortfolio/static/css/main.c3abc945.css",
+    "main.js": "/WebPortfolio/static/js/main.b48cb4c1.js",
     "static/media/nearbywaste.png": "/WebPortfolio/static/media/nearbywaste.fbcabce37375a1dc8032.png",
     "static/media/myblogapp.png": "/WebPortfolio/static/media/myblogapp.a101f3e3c633f8a569e7.png",
     "static/media/risk.png": "/WebPortfolio/static/media/risk.ebce37f46d0ccef2bda2.png",
     "static/media/tarana.png": "/WebPortfolio/static/media/tarana.760435d2615289b989fb.png",
     "static/media/driverdrowsiness.png": "/WebPortfolio/static/media/driverdrowsiness.32e639d2debbf420ed21.png",
-    "static/media/design.png": "/WebPortfolio/static/media/design.086d29fa5a2bd8dd9bf8.png",
     "static/media/job-find.png": "/WebPortfolio/static/media/job-find.60c765ef6bc4e65c139f.png",
     "static/media/myimg2_edit.png": "/WebPortfolio/static/media/myimg2_edit.dba24fb166ae23eca888.png",
+    "static/media/fractal.png": "/WebPortfolio/static/media/fractal.1446765352c1fe813d32.png",
     "static/media/restaurant.png": "/WebPortfolio/static/media/restaurant.80e932f5ba1633a91e0e.png",
     "static/media/expense.png": "/WebPortfolio/static/media/expense.7327ce0bda0ea17659ca.png",
-    "static/media/react-logo.png": "/WebPortfolio/static/media/react-logo.582cbc784710a3dbe704.png",
-    "static/media/python-logo.png": "/WebPortfolio/static/media/python-logo.52d7bb207f9868b90e39.png",
-    "static/media/c-logo.png": "/WebPortfolio/static/media/c-logo.2b2276395e116be80813.png",
-    "static/media/html5-logo.png": "/WebPortfolio/static/media/html5-logo.aa710682752a18d5add3.png",
-    "static/media/figma-logo.png": "/WebPortfolio/static/media/figma-logo.0e408c56cbf73ea2c6a7.png",
-    "static/media/mysql-logo.png": "/WebPortfolio/static/media/mysql-logo.aaf47b1b8acb71135ee4.png",
-    "static/media/javascript-logo.png": "/WebPortfolio/static/media/javascript-logo.31c81075366a39d39b47.png",
+    "static/media/rfq.png": "/WebPortfolio/static/media/rfq.7c7ddac843a5a6c2162c.png",
+    "static/media/crackube.png": "/WebPortfolio/static/media/crackube.ad68428d6c410f1adc82.png",
     "static/media/white_banner.png": "/WebPortfolio/static/media/white_banner.0972d05780b8fd029716.png",
     "static/media/LogoBlack.png": "/WebPortfolio/static/media/LogoBlack.a68ea5935193f133d3bb.png",
     "index.html": "/WebPortfolio/index.html",
-    "main.25765c9d.css.map": "/WebPortfolio/static/css/main.25765c9d.css.map",
-    "main.54c2434e.js.map": "/WebPortfolio/static/js/main.54c2434e.js.map"
+    "main.c3abc945.css.map": "/WebPortfolio/static/css/main.c3abc945.css.map",
+    "main.b48cb4c1.js.map": "/WebPortfolio/static/js/main.b48cb4c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.25765c9d.css",
-    "static/js/main.54c2434e.js"
+    "static/css/main.c3abc945.css",
+    "static/js/main.b48cb4c1.js"
   ]
 }
