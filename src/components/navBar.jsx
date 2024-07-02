@@ -48,7 +48,7 @@ const NavBar = () => {
                 <li className='p-3 mb-5'><Link onClick={handleNav} to="work"  smooth={true} duration={500} >
           Experience
         </Link></li>
-                <li className='p-3 mb-5'><Link onClick={handleNav} to="projects"  smooth={true} duration={500} >
+                <li className='p-3 mb-5'><Link onClick={handleNav} to="project"  smooth={true} duration={500} >
           Projects
         </Link></li>
                 <li className='p-3'><Link onClick={handleNav} to="contact"  smooth={true} duration={500} >
