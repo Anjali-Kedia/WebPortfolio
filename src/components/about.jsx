@@ -13,7 +13,7 @@ const About = () => {
                 <div className='max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-8 '>
                 <p className='sm:text-right text-4xl font-bold'>Hi, I am Anjali, nice to meet you. Please take a look around.</p>   
                 <div>
-                    <p >I am a pre-final year student. Currently living in Chennai, I am joyous, fun loving person. 
+                    <p >I am a final year student. Currently living in Chennai, I am joyous, fun loving person. 
                         I am a UI/UX designer and Web Developer.
                         I am specialising in AI and ML, and I have worked on projects building ML models.
                         Overall,I am always up to learn new technology and 

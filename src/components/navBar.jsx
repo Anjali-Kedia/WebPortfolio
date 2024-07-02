@@ -11,12 +11,9 @@ const NavBar = () => {
     }
     return ( 
         <div className= 'flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
-            <img src={myLogoWhite} className="h-14 mr-2 ml-3 mt-4 sm:h-20" alt="HUSTLE|BELIEVE"/>
+            <Link  to="home"  smooth={true} duration={500} ><img src={myLogoWhite} className="h-14 mr-2 ml-3 mt-4 sm:h-20" alt="HUSTLE|BELIEVE"/></Link>
             <ul className='hidden md:flex'>
-                <li className='p-4 hover:text-[#FFDDDB]'>
-                <Link  to="home"  smooth={true} duration={500} >
-          Home
-        </Link></li>
+                
                 <li className='p-4 hover:text-[#FFDDDB]'><Link  to="about"  smooth={true} duration={500} >
           About
         </Link></li>
@@ -24,7 +21,10 @@ const NavBar = () => {
           Skills
         </Link></li>
                 <li className='p-4 hover:text-[#FFDDDB]'><Link  to="work"  smooth={true} duration={500} >
-          Work
+          Experience
+        </Link></li>
+                <li className='p-4 hover:text-[#FFDDDB]'><Link  to="project"  smooth={true} duration={500} >
+          Projects
         </Link></li>
                 <li className='p-4 hover:text-[#FFDDDB]'><Link  to="contact"  smooth={true} duration={500} >
           Contact
@@ -46,7 +46,10 @@ const NavBar = () => {
           Skills
         </Link></li>
                 <li className='p-3 mb-5'><Link onClick={handleNav} to="work"  smooth={true} duration={500} >
-          Work
+          Experience
+        </Link></li>
+                <li className='p-3 mb-5'><Link onClick={handleNav} to="projects"  smooth={true} duration={500} >
+          Projects
         </Link></li>
                 <li className='p-3'><Link onClick={handleNav} to="contact"  smooth={true} duration={500} >
           Contact

@@ -6,10 +6,10 @@ import JobOpenS from "../assets/cardOpenSource";
 const Tabs = ({ color }) => {
   const [openTab, setOpenTab] = React.useState(1);
   return (
-    <div name='work' className='w-full  md:h-screen lg:mt-96 md:mt-96 text-white pt-28' >
+    <div  className='w-full  md:h-screen lg:mt-96 md:mt-96 text-white pt-28' >
     <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-9'>
-                    <p className='text-4xl font-bold inline border-b-4 text-white border-[#FFDDDB]'>WORK</p>
+                    <p className='text-4xl font-bold inline border-b-4 text-white border-[#FFDDDB]'>PROJECTS</p>
                     <p className='py-6'>Check out some of my recent projects.</p>
         </div>
       <div className="flex flex-wrap place-content-center">
@@ -101,7 +101,9 @@ const Tabs = ({ color }) => {
 export default function TabsRender() {
   return (
     <>
-      return <Tabs color="pink" />;
+    <div id="project">
+      <Tabs color="pink" />;
+    </div>
     </>
   );
 }
