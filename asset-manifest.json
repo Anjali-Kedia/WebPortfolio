@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WebPortfolio/static/css/main.c3abc945.css",
-    "main.js": "/WebPortfolio/static/js/main.d50d750d.js",
+    "main.js": "/WebPortfolio/static/js/main.bc7702d2.js",
     "static/media/nearbywaste.png": "/WebPortfolio/static/media/nearbywaste.fbcabce37375a1dc8032.png",
     "static/media/myblogapp.png": "/WebPortfolio/static/media/myblogapp.a101f3e3c633f8a569e7.png",
     "static/media/risk.png": "/WebPortfolio/static/media/risk.ebce37f46d0ccef2bda2.png",
@@ -12,16 +12,17 @@
     "static/media/fractal.png": "/WebPortfolio/static/media/fractal.1446765352c1fe813d32.png",
     "static/media/restaurant.png": "/WebPortfolio/static/media/restaurant.80e932f5ba1633a91e0e.png",
     "static/media/expense.png": "/WebPortfolio/static/media/expense.7327ce0bda0ea17659ca.png",
+    "static/media/amazon.png": "/WebPortfolio/static/media/amazon.587d69030b4d286e23f2.png",
     "static/media/rfq.png": "/WebPortfolio/static/media/rfq.7c7ddac843a5a6c2162c.png",
     "static/media/crackube.png": "/WebPortfolio/static/media/crackube.ad68428d6c410f1adc82.png",
     "static/media/white_banner.png": "/WebPortfolio/static/media/white_banner.0972d05780b8fd029716.png",
     "static/media/LogoBlack.png": "/WebPortfolio/static/media/LogoBlack.a68ea5935193f133d3bb.png",
     "index.html": "/WebPortfolio/index.html",
     "main.c3abc945.css.map": "/WebPortfolio/static/css/main.c3abc945.css.map",
-    "main.d50d750d.js.map": "/WebPortfolio/static/js/main.d50d750d.js.map"
+    "main.bc7702d2.js.map": "/WebPortfolio/static/js/main.bc7702d2.js.map"
   },
   "entrypoints": [
     "static/css/main.c3abc945.css",
-    "static/js/main.d50d750d.js"
+    "static/js/main.bc7702d2.js"
   ]
 }
