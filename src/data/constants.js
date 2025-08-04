@@ -1,6 +1,7 @@
 import fractal from '../images/fractal.png'
 import rfq from '../images/rfq.png'
 import crackube from '../images/crackube.png'
+import amazon from '../images/amazon.png'
 
 export const skills = [
     {
@@ -147,11 +148,23 @@ export const skills = [
 
 export const works = [
     {
-        title: "Project Intern",
+      title: "Software Developer Intern",
+      company: "Amazon",
+      logo: amazon,
+      date: "Jan 2025 – June 2025",
+      description: ["⁠Developed a Cypress-based UI regression suite for Pay Apps, cutting runtime to 13–15 minutes and saving 2–3 hours of QA time",
+                    "Built and maintained integration tests for Cosmo Service and NAMS services, using the Lugia framework to enhance system reliability",
+                    "⁠Integrated CloudCover into CI pipelines, achieving coverage insights of 41% (Cosmo) and 48.2% (NAMS)",
+                    "⁠Increased CosmoFx unit test coverage from 37% to 92% with data-driven testing and CI hooks.",
+                    "Presented an 𝐋𝐋𝐃 and implemented a new 𝐀𝐏𝐈 as part of the migration from Abacus to Brass, for reviewer resolution and long-term scalability"],
+      skills: [ "Java", "JUnit", "Cypress Test", "Typescript"],
+    },
+    {
+        title: "Machine Learning Intern",
         company: "Fractal Analytics Pvt Ltd",
         logo: fractal,
-        date: "May 2024 – Present",
-        description:[" Currently working on the RFP portal and automating document processing and querying.Worked on the Frontend framework of the rlhf portal, using django and integrated with the llm backend."],
+        date: "May 2024 – July 2024",
+        description:["Enhanced the Request for Proposal (RFP) portal by automating document processing and querying, resulting in a 30% reduction in processing time and a 10% increase in operational efficiency."],
         skills: [ "Large Language Models (LLM)", "Machine Learning", "Django", "Docker", "Python"],
     },
     {
