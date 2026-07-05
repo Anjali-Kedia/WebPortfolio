@@ -2,6 +2,7 @@ import fractal from '../images/fractal.png'
 import rfq from '../images/rfq.png'
 import crackube from '../images/crackube.png'
 import amazon from '../images/amazon.png'
+import everstar from '../images/everstar-logo.png'
 
 export const skills = [
     {
@@ -147,6 +148,17 @@ export const skills = [
   ];
 
 export const works = [
+  {
+    title: "Founding Software Engineer",
+    company: "Everstar Inc.",
+    logo: everstar,
+    date: "July 2025 - June 2026",
+    description: ["Developed AI agent chat features including thinking-step UI, stop/retry, shareable sessions, and feedback voting; migrated session APIs to RTK Query with JWT server-side auth.",
+                  "Resolved parallel tool-call race conditions across 20+ LangGraph agent tools, eliminating duplicate tool responses in production agent sessions.",
+                  "Engineered Document Compare: AI chat, TipTap editor with citations, PDF/DOCX export, and Airflow + OpenSearch pipeline with section-based indexing.",
+                  "Architected server-side library search with recency, author, and acronym ranking across a 3M+ document regulatory corpus; created the Learning Center platform (Prisma, FastAPI, admin UI) for content management and discovery."],
+    skills: [ "TypeScript", "React", "Next.js", "Python", "FastAPI", "LangGraph", "Airflow", "OpenSearch"],
+    },
     {
       title: "Software Developer Intern",
       company: "Amazon",

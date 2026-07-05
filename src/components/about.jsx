@@ -13,11 +13,11 @@ const About = () => {
                 <div className='max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-8 '>
                 <p className='sm:text-right text-4xl font-bold'>Hi, I am Anjali, nice to meet you. Please take a look around.</p>   
                 <div>
-                    <p >I am a final year student. Currently living in Chennai, I am joyous, fun loving person. 
-                        I am a UI/UX designer and Web Developer.
-                        I am specialising in AI and ML, and I have worked on projects building ML models.
-                        Overall,I am always up to learn new technology and 
-                        meet new people.
+                    <p >Hi, I'm Anjali! I enjoy building software that people actually use. 
+                        From AI-powered document intelligence platforms to full-stack web applications, I like working across the stack and turning ideas into polished products.
+                        I'm naturally curious, love learning new technologies, and enjoy solving challenging engineering problems. 
+                        Whether it's experimenting with AI, designing a clean user experience, or debugging a tricky production issue, I'm happiest when I'm building.
+
                     </p>
                     <button className='text-white border-2 px-6 py-3 my-2  items-center hover:border-[#FFDDDB] hover:bg-[#FFDDDB] hover:text-black'>Get In Touch</button>
                 </div>
